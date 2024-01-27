@@ -1,4 +1,3 @@
 # msg
 this is my first repository 
-<br>
-author-(mahendra gurjar)
+author -mahendra(gurjar)
